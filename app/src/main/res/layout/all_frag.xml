@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:src="@drawable/regret"
+            android:id="@+id/first"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:src="@drawable/happy"
+            android:id="@+id/second"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="360dp"
+            android:src="@drawable/time"
+            android:id="@+id/third"/>
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>
