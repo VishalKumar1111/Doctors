@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ViewPager">
         <activity
+            android:name=".Quiz.secondPage"
+            android:exported="true" />
+        <activity
+            android:name=".Quiz.Home"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

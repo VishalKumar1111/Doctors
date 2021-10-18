@@ -3,12 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/ViewPager/app/src/main/res/layout/all_frag.xml" value="0.18" />
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/ViewPager/app/src/main/res/layout/first_frag.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/ViewPager/app/src/main/res/layout/second_frag.xml" value="0.2" />
+        <entry key="..\:/Users/R-LOGIXX/AndroidStudioProjects/ViewPager/app/src/main/res/layout/third_frag.xml" value="0.1" />
         <entry key="..\:/Users/R-Logixx/AndroidStudioProjects/ViewPager/app/src/main/res/layout/activity_main.xml" value="0.14375" />
         <entry key="..\:/Users/R-Logixx/AndroidStudioProjects/ViewPager/app/src/main/res/layout/all_frag.xml" value="0.1" />
         <entry key="..\:/Users/R-Logixx/AndroidStudioProjects/ViewPager/app/src/main/res/layout/first.xml" value="0.14375" />
         <entry key="..\:/Users/R-Logixx/AndroidStudioProjects/ViewPager/app/src/main/res/layout/first_frag.xml" value="0.14375" />
         <entry key="..\:/Users/R-Logixx/AndroidStudioProjects/ViewPager/app/src/main/res/layout/second_frag.xml" value="0.14375" />
         <entry key="..\:/Users/R-Logixx/AndroidStudioProjects/ViewPager/app/src/main/res/layout/third_frag.xml" value="0.14375" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/layout/activity_home.xml" value="0.16" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/layout/activity_second_page.xml" value="0.18" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/layout/all_frag.xml" value="0.14375" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/layout/second_frag.xml" value="0.14375" />
+        <entry key="..\:/Users/R-Logixx/Downloads/ViewPager/app/src/main/res/mipmap-anydpi-v26/new.xml" value="0.1" />
       </map>
     </option>
   </component>

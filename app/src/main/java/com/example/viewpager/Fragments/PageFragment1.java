@@ -1,9 +1,11 @@
 package com.example.viewpager.Fragments;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -19,4 +21,9 @@ public class PageFragment1 extends Fragment {
         ViewGroup rootview=(ViewGroup) inflater.inflate(R.layout.first_frag,container,false);
         return rootview;
     }
+
+
+
+
+
 }
